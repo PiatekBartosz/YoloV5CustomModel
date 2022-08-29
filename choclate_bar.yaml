@@ -1,6 +1,6 @@
-train: /content/YoloV5CustomModel/train_data/images/train
-val: /content/YoloV5CustomModel/train_data/images/val
+train: /home/bartek/RobotDelta/VisionSystem/YoloV5CustomModel/train_data/images/train
+val: /home/bartek/RobotDelta/VisionSystem/YoloV5CustomModel/train_data/images/val
 
-nc: 1 
-names: ['3-bit']  
+nc: 4 
+names: ['3-bit', 'Mars', 'Milkyway', 'Snickers']  
 

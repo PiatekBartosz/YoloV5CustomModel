@@ -1,0 +1,2 @@
+python train.py --img 416 --batch 16 --epochs 300 --data /home/bartek/RobotDelta/VisionSystem/YoloV5CustomModel/choclate_bar.yaml --weights yolov5s.pt --device 0
+
